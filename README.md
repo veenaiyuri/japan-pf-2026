@@ -24,15 +24,17 @@
 | Time | Description | Speaker |
 |---:|---|---|
 | 9:00–9:30 | Registration/受付 | |
-| 9:30–10:30 | Track A: Solving Optimization Problems with Qiskit Functions / Track B: Exploring Samplomatic and advanced usage (layering in advanced-classical mitigation) | Junye Huang; Elena Peña Tapia / Ian Hincks (IBM Quantum) |
-| 10:30–12:00 | Track A: Optimization Challenges using KIPU and Q-CTRL Optimization Solvers / Track B: Advanced error mitigation techniques using Samplomatic, Samplex, and executive frameworks (SLC, PNA, PEC evolution) | Junye Huang; Elena Peña Tapia / Nate Earnest-Noble (IBM Quantum) |
+| 9:30–10:30 | Track A: Solving Optimization Problems with Qiskit Functions | Junye Huang; Elena Peña Tapia (IBM Quantum) |
+|            | Track B: Exploring Samplomatic and advanced usage (layering in advanced-classical mitigation) | Ian Hincks (IBM Quantum) |
+| 10:30–12:00 | Track A: Optimization Challenges using KIPU and Q-CTRL Optimization Solvers | Junye Huang; Elena Peña Tapia (IBM Quantum) |
+|             | Track B: Advanced error mitigation techniques using Samplomatic, Samplex, and executive frameworks (SLC, PNA, PEC evolution) | Nate Earnest-Noble (IBM Quantum) |
 | 12:00–13:00 | Lunch Break (お弁当を用意しております/A bento box will be served) | |
 | 13:00–15:00 | Quantum Clinic/量子コン・クリニック(I) — consult with IBM experts to help solve specific challenges in current research projects | IBM experts |
 | 15:00–15:30 | Coffee Break | |
 | 15:30–17:30 | Quantum Clinic/量子コン・クリニック(II) — consult with IBM experts to help solve specific challenges in current projects | IBM experts |
 | 17:30 | Closing | |
 
-Day 2午後の量子コン・クリニックについて
+Day 2 午後の量子コン・クリニックについて
 2/3(火) Day 2 午後は「量子コン・クリニック」と題しまして、現在取り組まれている研究課題をIBM Quantumの量子コンピューターを使って解くにあたってのお困りごとやご相談を受け付けます。
 
 ## Optimization Functions Challenges
