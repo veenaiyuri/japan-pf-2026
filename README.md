@@ -57,9 +57,9 @@ Day 2 午後の量子コン・クリニックについて
 
 | Challenge | Qiskit Function Used | Notebooks |
 |---|---|---|
-| Market Split | Kipu Iskay Quantum Optimizer | [EN](./challenges/market-split/market_split_problem.ipynb), [日本語](./challenges/market-split/market_split_problem-ja.ipynb) |
-| Maximum Independent Set | Q-CTRL Optimization | [EN](./challenges/maximum-independent-set/maximum-independent-set.ipynb), [日本語](./challenges/maximum-independent-set/maximum-independent-set-ja.ipynb) |
-| Grid Stability Classification | Multiverse Singularity | [EN](./challenges/multiverse-grid-stability-classification/singularity_qiskit_exercises.ipynb), [日本語](./challenges/multiverse-grid-stability-classification/singularity_qiskit_exercises_ja.ipynb) |
+| Market Split | [Kipu Iskay Quantum Optimizer](https://quantum.cloud.ibm.com/functions?id=kipu-quantum-iskay-quantum-optimizer) | [EN](./challenges/market-split/market_split_problem.ipynb), [日本語](./challenges/market-split/market_split_problem-ja.ipynb) |
+| Maximum Independent Set | [Q-CTRL Optimization Solver](https://quantum.cloud.ibm.com/functions?id=q-ctrl-optimization-solver) | [EN](./challenges/maximum-independent-set/maximum-independent-set.ipynb), [日本語](./challenges/maximum-independent-set/maximum-independent-set-ja.ipynb) |
+| Grid Stability Classification | [Multiverse Singularity](https://quantum.cloud.ibm.com/functions?id=multiverse-singularity) | [EN](./challenges/multiverse-grid-stability-classification/singularity_qiskit_exercises.ipynb), [日本語](./challenges/multiverse-grid-stability-classification/singularity_qiskit_exercises_ja.ipynb) |
 | Quantum Multiverse Objective Optimization | No Qiskit function required | [EN](./challenges/qmoo/qmoo_qdc25.ipynb), [日本語](./challenges/qmoo/qmoo_qdc25_ja.ipynb) |
 
 You can find some tips for solving the challenges in the [cheatsheet](./challenges/challenges_cheat_sheet.md).
