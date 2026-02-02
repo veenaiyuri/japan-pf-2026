@@ -2,10 +2,13 @@
 
 ## Table of Content
 
-- [プログラム | Program](#プログラム--program-)
-    - [Day 1](#day-1-feb-2-2026-mon)
-    - [Day 2](#day-2-feb-3-2026-tue)
-- [Optimization Functions Challenges](#optimization-functions-challenges)
+- [量子プログラミング実践講座 | Japan Practitioners Forum 2026](#量子プログラミング実践講座--japan-practitioners-forum-2026)
+  - [Table of Content](#table-of-content)
+  - [プログラム | Program ：](#プログラム--program-)
+    - [Day 1: Feb 2, 2026 (Mon)](#day-1-feb-2-2026-mon)
+    - [Day 2: Feb 3, 2026 (Tue)](#day-2-feb-3-2026-tue)
+      - [Day 2 午後の量子コン・クリニックについて](#day-2-午後の量子コンクリニックについて)
+  - [Optimization Functions Challenges](#optimization-functions-challenges)
     - [Setup](#setup)
     - [Challenges](#challenges)
 
@@ -34,7 +37,7 @@
 |-------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------|
 | 9:00–9:30   | Registration / 受付                                                                                                                |                                             |           |
 | 9:30–10:30  | Track A: Solving Optimization Problems with Qiskit Functions                                                                     | Junye Huang; Elena Peña Tapia (IBM Quantum) | [notebooks](/challenges/)          |
-|             | Track B: Exploring Samplomatic and Advanced Usage (Layering in Advanced Classical Mitigation)                                    | Ian Hincks (IBM Quantum)                    |           |
+|             | Track B: Exploring Samplomatic and Advanced Usage (Layering in Advanced Classical Mitigation)                                    | Ian Hincks (IBM Quantum)                    | [presentation](./hello-samplomatic/slides.pdf) [notebook](./hello-samplomatic/hello-samplomatic.ipynb)          |
 | 10:30–12:00 | Track A: Solving Optimization Problems with Qiskit Functions (continued)                                                         | Junye Huang; Elena Peña Tapia (IBM Quantum) | [notebooks](/challenges/)          |
 |             | Track B: Advanced Error Mitigation Techniques using Samplomatic, Samplex, and Executor Frameworks (SLC (Evolution of PEC), PNA, ZNE)     | Nate Earnest-Noble (IBM Quantum)            | [presentation](./Error%20Mitigation%20Techniques/PFJapan_EM_SLC_PNA.pdf) [notebooks](./Error%20Mitigation%20Techniques/)       |
 | 12:00–13:00 | Lunch Break (A Bento Box Will Be Served / お弁当を用意しております)                                                                |                                             |           |
