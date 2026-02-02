@@ -1,0 +1,25 @@
+# Temporary files created by Jupyter / IPython
+*.ipynb_checkpoints
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IPython history and runtime
+.ipython/
+
+# Notebook outputs and exports
+*.nbconvert.ipynb
+*.html
+*.pdf
+
+# macOS
+.DS_Store
