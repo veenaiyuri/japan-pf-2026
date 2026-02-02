@@ -43,6 +43,7 @@ Day 2 午後の量子コン・クリニックについて
 
 - Installation instructions [here](./INSTALL.md)
 - Save account and check Qiskit functions access [here](./save_account&check_functions_access.ipynb).
+    - NEDO Challenge participants can request for Qiskit functions access following the instructions [here](./for_nedo_participants/[NEDO]Qiskit%20Functions%20Activate申請方法.pdf).
 
 ### Challenges
 
