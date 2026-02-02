@@ -29,18 +29,18 @@
 
 ### Day 2: Feb 3, 2026 (Tue)
 
-| Time | Description | Speaker |
-|---:|---|---|
-| 9:00–9:30 | Registration/受付 | |
-| 9:30–10:30 | Track A: Solving Optimization Problems with Qiskit Functions | Junye Huang; Elena Peña Tapia (IBM Quantum) |
-|            | Track B: Exploring Samplomatic and advanced usage (layering in advanced-classical mitigation) | Ian Hincks (IBM Quantum) |
-| 10:30–12:00 | Track A: Solving Optimization Problems with Qiskit Functions (continued) | Junye Huang; Elena Peña Tapia (IBM Quantum) |
-|             | Track B: Advanced error mitigation techniques using Samplomatic, Samplex, and executive frameworks (SLC, PNA, PEC evolution) | Nate Earnest-Noble (IBM Quantum) |
-| 12:00–13:00 | Lunch Break (お弁当を用意しております/A bento box will be served) | |
-| 13:00–15:00 | Quantum Clinic/量子コン・クリニック(I) — consult with IBM experts to help solve specific challenges in current research projects | IBM experts |
-| 15:00–15:30 | Coffee Break | |
-| 15:30–17:30 | Quantum Clinic/量子コン・クリニック(II) — consult with IBM experts to help solve specific challenges in current projects | IBM experts |
-| 17:30 | Closing | |
+| Time        | Description                                                                                                                      | Speaker                                     | Materials |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------|
+| 9:00–9:30   | Registration/受付                                                                                                                |                                             |           |
+| 9:30–10:30  | Track A: Solving Optimization Problems with Qiskit Functions                                                                     | Junye Huang; Elena Peña Tapia (IBM Quantum) | [notebooks](/challenges/)          |
+|             | Track B: Exploring Samplomatic and advanced usage (layering in advanced-classical mitigation)                                    | Ian Hincks (IBM Quantum)                    |           |
+| 10:30–12:00 | Track A: Solving Optimization Problems with Qiskit Functions (continued)                                                         | Junye Huang; Elena Peña Tapia (IBM Quantum) | [notebooks](/challenges/)          |
+|             | Track B: Advanced error mitigation techniques using Samplomatic, Samplex, and executive frameworks (SLC, PNA, PEC evolution)     | Nate Earnest-Noble (IBM Quantum)            |           |
+| 12:00–13:00 | Lunch Break (お弁当を用意しております/A bento box will be served)                                                                |                                             |           |
+| 13:00–15:00 | Quantum Clinic/量子コン・クリニック(I) — consult with IBM experts to help solve specific challenges in current research projects | IBM experts                                 |           |
+| 15:00–15:30 | Coffee Break                                                                                                                     |                                             |           |
+| 15:30–17:30 | Quantum Clinic/量子コン・クリニック(II) — consult with IBM experts to help solve specific challenges in current projects         | IBM experts                                 |           |
+| 17:30       | Closing                                                                                                                          |                                             |           |
 
 Day 2 午後の量子コン・クリニックについて
 2/3(火) Day 2 午後は「量子コン・クリニック」と題しまして、現在取り組まれている研究課題をIBM Quantumの量子コンピューターを使って解くにあたってのお困りごとやご相談を受け付けます。
@@ -49,8 +49,8 @@ Day 2 午後の量子コン・クリニックについて
 
 ### Setup
 
-- Installation instructions [here](./INSTALL.md)
-- Save account and check Qiskit functions access [here](./save_account&check_functions_access.ipynb).
+- Installation instructions [here](./challenges/INSTALL.md)
+- Save account and check Qiskit functions access [here](./challenges/save_account&check_functions_access.ipynb).
     - NEDO Challenge participants can request for Qiskit functions access following the instructions [here](./for_nedo_participants/[NEDO]Qiskit%20Functions%20Activate申請方法.pdf).
 
 ### Challenges
@@ -61,3 +61,5 @@ Day 2 午後の量子コン・クリニックについて
 | Maximum Independent Set | Q-CTRL Optimization | [EN](./challenges/maximum-independent-set/maximum-independent-set.ipynb), [日本語](./challenges/maximum-independent-set/maximum-independent-set-ja.ipynb) |
 | Grid Stability Classification | Multiverse Singularity | [EN](./challenges/multiverse-grid-stability-classification/singularity_qiskit_exercises.ipynb), [日本語](./challenges/multiverse-grid-stability-classification/singularity_qiskit_exercises_ja.ipynb) |
 | Quantum Multiverse Objective Optimization | No Qiskit function required | [EN](./challenges/qmoo/qmoo_qdc25.ipynb), [日本語](./challenges/qmoo/qmoo_qdc25_ja.ipynb) |
+
+You can find some tips for solving the challenges in the [cheatsheet](./challenges/challenges_cheat_sheet.md).
