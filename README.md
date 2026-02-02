@@ -25,7 +25,7 @@
 | 14:30–15:30 | Areas of Advantage II: Hamiltonian Simulation                                                    | Yuri Kobayashi (IBM Quantum)                  | [presentation](./hamiltonian_simulation/hamiltonian_simulation_overview.pdf) [notebook](./hamiltonian_simulation/hamiltonian-simulation.ipynb)         |
 | 15:30–16:00 | Coffee Break                                                                                     |                                               |           |
 | 16:00–17:00 | Areas of Advantage III: Machine Learning                                                         | Hiroshi Yamauchi (Softbank)                   |           |
-| 17:00–17:30 | Qiskit Functions Challenge Setup                                                                 |                                               |           |
+| 17:00–17:30 | Qiskit Functions Challenge Setup                                                                 | Junye Huang; Elena Peña Tapia (IBM Quantum)                                              | [notebook](./challenges/save_account&check_functions_access.ipynb)          |
 | 18:00–20:00 | Banquet / 懇親会                                                                                   |                                               |           |
 
 ### Day 2: Feb 3, 2026 (Tue)
